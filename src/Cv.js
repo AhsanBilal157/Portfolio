@@ -20,7 +20,7 @@ const Contact = () => {
                 <span></span>
                 <div className="content">
                      
-            <img className="profile-image" src={ProfilePic} alt="Ahsan Bilal" height={330}width={350}/>
+            <img className="profile-image" srcSet='https://raw.githubusercontent.com/AhsanBilal157/Portfolio/master/src/circle-cropped.png?token=AR5DA7GCNB3IPJLJUD6J6KC73DH6S' alt="Ahsan Bilal" height={330}width={350}/>
             
           </div>
           </div>
